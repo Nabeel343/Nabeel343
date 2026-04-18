@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nabeel Ahmed Khan 👋
 
-<!--
-**Nabeel343/Nabeel343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & Machine Learning Enthusiast  
+📊 Skilled in Python, NLP, and Data Analytics  
+🚀 Passionate about building real-world AI solutions  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- AI Chatbot using NLP  
+- Fraud Detection using Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python | Machine Learning | SQL | Pandas | Scikit-learn  
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/nabeel-khan-1231532b9/
